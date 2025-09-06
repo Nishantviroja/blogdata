@@ -1,6 +1,22 @@
 [
- 
-  {
+ {
+  "id": "06092025153928",
+  "title": "Scale AI’s CTO launches AI agent that esolve big data’s problem",
+  "excerpt": "Former Scale AI CTO Arun Murthy and his team have introduced Isotopes AI and Aidnn, an advanced AI agent aimed at solving the decades-old problem of big data accessibility for business users, promising to transform enterprise analytics.",
+  "date": "Sep 6, 2025",
+  "author": "Nishant Patel",
+  "category": "News",
+  "readTime": "6 min read",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN_yYH8Y1uv3NCxpGmRy_Cji_TDZgxSd0WtBVlYO3enaeGBI0CiPMJluHhiK4wsXynXWOJs0wk4ZeaQJKQdBvxZtBAdNjsecNoMYyzSD8U3OuaUs5_INDLVMUJy_wqjFomgiW3BZTURYcY9QJ3pc4fcx2L6wxEsJrHSrtBTvz5F_fz7StuAq6qWR72ySvo/w640-h510/Isotopes-AI-cofounders.jpg",
+  "slug": "scale-ais-cto-launches-ai-agent-that-esolve-big-datas-problem",
+  "content": "\n\n<p>Big data has long been heralded as a game-changer for enterprises, yet one persistent problem continues to inhibit its full potential: the disconnect between those who build and maintain data infrastructure and the business users who need actionable insights from that data. Addressing this issue, Arun Murthy, former CTO of Scale AI and one of the original architects behind Hadoop, has launched a groundbreaking AI startup, Isotopes AI, that promises to revolutionize how businesses access and use their data.</p>\n\n<p>Emerging from stealth mode with a $20 million seed funding round led by Vab Goel at NTTVC, Isotopes AI introduces Aidnn - an AI agent designed to bridge this critical gap. Unlike traditional analytics tools, Aidnn leverages cutting-edge large language models (LLMs) and agentic AI to allow business managers to query complex data across their finance, ERP, CRM, and cloud storage platforms using natural language.</p>\n\n<p>Murthy’s unparalleled expertise, cultivated over two decades of experience including co-founding Hortonworks (which commercialized Hadoop) and serving as CTO at Scale AI, uniquely positions him to tackle this challenge head-on. Hadoop sparked the initial big data revolution in the 2010s by enabling large-scale data processing through distributed systems, but the rise of new cloud storage technologies has shifted the landscape dramatically. Murthy witnessed firsthand the frustrations of data companies struggling to provide timely and accurate business insights during his tenure at Cloudera and Scale AI.</p>\n\n<p>Aidnn goes far beyond a simple chatbot. It orchestrates multi-step, complex workflows such as metadata extraction, data cleaning and normalization, dataset integration, revenue proration, and aggregation—all essential tasks to transform raw data into meaningful insights. This sophisticated approach ensures that even data not readily available in the required format can be used effectively for decision-making.</p>\n\n<p>Transparency is a key differentiator for Isotopes AI. Aidnn not only provides answers but also explains its reasoning, assumptions, and highlights anomalies, helping users understand the underlying data quality and analytics process. Importantly, Isotopes ensures enterprise customers can deploy the AI without compromising data privacy or sharing sensitive information with third-party AI model providers.</p>\n\n<p>Despite the competitive landscape—with established players like Salesforce’s Tableau offering AI-powered analytics agents—Isotopes AI’s unique combination of pedigree and technology offers a fresh approach to democratizing big data access. Isotopes demonstrates how specialized AI agents can unlock previously inaccessible insights, empowering business teams to make faster, data-driven decisions without depending heavily on data engineers.</p>\n\n<p>As AI continues to reshape enterprise analytics in 2025 and beyond, Isotopes AI and its Aidnn agent represent a promising leap forward in closing the big data access gap, enabling businesses to fully harness the power of their data assets.</p>",
+  "metadata": {
+    "title": "Scale AI Ex-CTO Arun Murthy Launches AI Agent to Solve Big Data Access Challenge",
+    "desc": "Isotopes, co-founded by Arun Murthy, launched a sophisticated analytics agent. Arun was one of the creators of Hadoop who later joined Scale AI.",
+    "keyword": "Scale AI, Arun Murthy, AI agent, Isotopes AI, big data analytics, Hadoop, enterprise AI, Aidnn, big data access"
+  }
+}
+  ,{
   "id": "05092025212437",
   "title": "Similarities between human and AI learning offer intuitive design insights",
   "excerpt": "New research highlights striking parallels between human and AI learning. By comparing incremental and in-context learning, scientists reveal how memory processes in the human brain mirror AI systems’ ability to adapt. These insights offer powerful guidance for designing more intuitive and trustworthy AI tools.",
